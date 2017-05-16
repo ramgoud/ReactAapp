@@ -45,3 +45,7 @@ group :development do
   gem 'spring'
 end
 
+
+# Added Gems 
+
+gem 'bootstrap', '~> 4.0.0.alpha6'
